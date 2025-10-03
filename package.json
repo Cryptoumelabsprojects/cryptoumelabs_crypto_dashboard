@@ -1,0 +1,15 @@
+{
+  "name": "cryptoumelabs_crypto_dashboard",
+  "version": "1.0.0",
+  "description": "Crypto dashboard project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "cryptoumelabs",
+  "license": "MIT"
+}
